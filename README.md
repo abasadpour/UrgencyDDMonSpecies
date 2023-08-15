@@ -1,6 +1,6 @@
 # UrgencyDDMonSpecies
 
-This code plots all the figures in the paper with the title "Of rodents and primates: Time-variant gain in drift-diffusion decision models."
+This repository fits time-variant urgency DDM to datasets of three species and plots all the figures in the paper with the title "Of rodents and primates: Time-variant gain in drift-diffusion decision models."
 ## Python and PyDDM 
 To fit models, PyDDM package 0.7.0 must be installed.
 
