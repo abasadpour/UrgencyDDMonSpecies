@@ -10,4 +10,4 @@ To run MATLAB codes, Python should be configured for MATLAB.
 
 Run plot_within_species_figures.m within the Matlab Code folder to plot Figs 2-4 in the paper.
 
-Run plot_between_species_figures.m within the Matlab Code folder to plot Fig 5 in the paper.
+Run plot_between_species_figures.m within the Matlab Code folder to plot Fig S1 in the Supplementary.
